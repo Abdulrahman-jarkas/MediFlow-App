@@ -1,0 +1,132 @@
+@MediFlow.Api_HostAddress = https://localhost:7218
+@Token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImI3NTM5Njk0LTk3ZTctNGRmZS04NGRhLWI0MjU2ZTFmZjVjNyIsInN1YiI6ImI3NTM5Njk0LTk3ZTctNGRmZS04NGRhLWI0MjU2ZTFmZjVjNyIsImp0aSI6Ijg5NzRiNTYyIiwicm9sZSI6ImNsaW5pYyIsImdpdmVuX25hbWUiOiJBYmR1bHJhaG1hbiIsImF1ZCI6ImNsaW5pY21hbmFnZW1lbnRhcGkiLCJuYmYiOjE3NTM1NTI1OTgsImV4cCI6MTc2MTUwMTM5OCwiaWF0IjoxNzUzNTUyNjAwLCJpc3MiOiJkb3RuZXQtdXNlci1qd3RzIn0.fgFrWszXDVQMIJuhukdadNemAsDBjvfgnhDQrvQ_k24
+@ClinicId = 1206a61e-4fd3-4d53-8815-d996f51e8175
+@MedicineId = afec14ac-6ed0-4098-8d67-f7b316a8c27d
+@EquipmentId = d51935ec-9e38-421c-a401-9b7fa78efa90
+@RoomId = 24dd9a43-271b-4d75-823b-95a78df48bb1
+@DoctorId = 1020c3ee-4483-479f-9be9-495e54be82c1
+
+
+GET {{MediFlow.Api_HostAddress}}/api/clinics
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Create Clinic
+POST {{MediFlow.Api_HostAddress}}/api/clinics
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "Clinic 1"
+}
+
+### Update Clinic
+PUT {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": ""
+}
+
+### Set Clinic Availability 
+PUT {{MediFlow.Api_HostAddress}}/api/clinics/6c2a20e1-656b-4a9a-bca7-ce3f99d8dafe/availability
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "availabilities": [
+    {
+      "day": 1,
+      "timeRanges": [
+        { "from": "6:00", "to": "5:00" },
+        { "from": "18:00", "to": "23:00" }
+      ]
+    }
+  ]
+}
+
+### Add Doctor To Clinic  
+POST {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/doctors
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "doctorId" : "4863f72f-f219-4881-a7d5-7215573a2760"
+}
+
+### Add Medicine
+POST {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/medicines
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "M 4",
+  "price": 30,
+  "quantity": 21
+}
+
+### Update Medicine
+Put {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/medicines/{{MedicineId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "M 3 - update name",
+  "price": 30,
+  "quantity": 21
+}
+
+### Delete Medicine
+Delete {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/medicines/{{MedicineId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Add Equipment
+POST {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/equipments
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "E 1",
+   "fees": 30
+}
+
+### Update Equipment
+Put {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/equipments/{{EquipmentId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "E1 - update name",
+  "fees": 40
+}
+
+### Delete Equipment
+Delete {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/equipments/{{EquipmentId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+
+
+### Add Room
+POST {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/rooms
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "R 2"
+}
+
+### Update Room
+Put {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/rooms/{{RoomId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "R1 - update name"
+}
+
+### Delete Room
+Delete {{MediFlow.Api_HostAddress}}/api/clinics/{{ClinicId}}/rooms/{{RoomId}}
+Authorization: Bearer {{token}}
+Accept: application/json

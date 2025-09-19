@@ -1,0 +1,299 @@
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\appsettings.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.runtime.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.endpoints.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.exe
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.deps.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.runtimeconfig.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityModel.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.AssemblyReference.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfoInputs.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfo.cs
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cs
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\scopedcss\bundle\MediFlow.IdentityServer.styles.css
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.build.MediFlow.IdentityServer.props
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MediFlow.IdentityServer.props
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MediFlow.IdentityServer.props
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.5151F469.Up2Date
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\refint\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.genruntimeconfig.cache
+D:\My Projects\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\ref\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-5E68DCD554F9D244685153892AFF6169.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-5E68DCD554F9D244685153892AFF6169.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.endpoints.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\appsettings.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.runtime.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.exe
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.deps.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.runtimeconfig.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityModel.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.AssemblyReference.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfoInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfo.cs
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cs
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\scopedcss\bundle\MediFlow.IdentityServer.styles.css
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.build.MediFlow.IdentityServer.props
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MediFlow.IdentityServer.props
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MediFlow.IdentityServer.props
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.5151F469.Up2Date
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\refint\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.genruntimeconfig.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\ref\MediFlow.IdentityServer.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-10A9DDAF6137AF5D703EC0DF8744B2FC.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-10A9DDAF6137AF5D703EC0DF8744B2FC.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-5E68DCD554F9D244685153892AFF6169.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.endpoints.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.staticwebassets.runtime.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.exe
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.deps.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.runtimeconfig.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityModel.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.AssemblyReference.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfoInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.AssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.csproj.CoreCompileInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.RazorAssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\scopedcss\bundle\MediFlow.IdentityServer.styles.css
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.MediFlow.IdentityServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.build.MediFlow.IdentityServer.props
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MediFlow.IdentityServer.props
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MediFlow.IdentityServer.props
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.5151F469.Up2Date
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\refint\MediFlow.IdentityServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\MediFlow.IdentityServer.genruntimeconfig.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\obj\Debug\net8.0\ref\MediFlow.IdentityServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\keys\is-signing-key-DFDA9CD57A3F423EEC77A29C2E5452B0.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Azure.Core.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Azure.Identity.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Humanizer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.ClientModel.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.CodeDom.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Text.Json.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.IdentityServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

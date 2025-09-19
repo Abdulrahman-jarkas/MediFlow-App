@@ -1,0 +1,51 @@
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.deps.json
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.runtimeconfig.json
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.AssemblyReference.cache
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfoInputs.cache
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfo.cs
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\refint\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.genruntimeconfig.cache
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\ref\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.dll
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.pdb
+D:\My Projects\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.2D649F94.Up2Date
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.deps.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.runtimeconfig.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.AssemblyReference.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfoInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfo.cs
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.2D649F94.Up2Date
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\refint\MediFlow.ClinicManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.genruntimeconfig.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\ref\MediFlow.ClinicManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.deps.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.runtimeconfig.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\bin\Debug\net8.0\SharedKernal.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.AssemblyReference.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfoInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.AssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.csproj.CoreCompileInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.2D649F94.Up2Date
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\refint\MediFlow.ClinicManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\MediFlow.ClinicManagement.genruntimeconfig.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ClinicManagement\obj\Debug\net8.0\ref\MediFlow.ClinicManagement.dll

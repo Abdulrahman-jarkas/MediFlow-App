@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.Clinic.CreateClinicProfile\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MediFlow.ClinicManagement.Requests.Profile.CreateClinicProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.Clinic.UpdateClinicProfile\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics/{clinicId:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MediFlow.ClinicManagement.Requests.Profile.UpdateClinicProfileRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "clinicId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.Clinic.AddDoctorToClinic\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics/{clinicId:guid}/doctors",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MediFlow.ClinicManagement.Requests.Profile.AddDoctorToClinicRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "clinicId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.Schedule.Endpoints.SetClinicAvailability\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics/{id:guid}/availability",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MediFlow.Schedule.Requests.SetAvailabilityRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.Doctor.CreateClinicProfile\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/doctors",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MediFlow.ClinicManagement.Requests.Equipments.CreateDoctorProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.Doctor.UpdateDoctorProfile\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/doctors/{doctorId:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MediFlow.ClinicManagement.Requests.Equipments.UpdateDoctorProfileRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "doctorId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.Schedule.Endpoints.SetDoctorAvailability\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/doctors/{id:guid}/availability",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MediFlow.Schedule.Requests.SetAvailabilityRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

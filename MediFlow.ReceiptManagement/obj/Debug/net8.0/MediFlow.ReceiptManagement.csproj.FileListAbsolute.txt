@@ -1,0 +1,33 @@
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.deps.json
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfoInputs.cache
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfo.cs
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\refint\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\My Projects\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\ref\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.deps.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfoInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfo.cs
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\refint\MediFlow.ReceiptManagement.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\ref\MediFlow.ReceiptManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.deps.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\bin\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfoInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.AssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.csproj.CoreCompileInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\refint\MediFlow.ReceiptManagement.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\MediFlow.ReceiptManagement.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.ReceiptManagement\obj\Debug\net8.0\ref\MediFlow.ReceiptManagement.dll

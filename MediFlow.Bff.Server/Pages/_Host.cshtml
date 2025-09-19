@@ -1,0 +1,21 @@
+﻿@page
+@model MediFlow.Bff.Server.Pages._HostModel
+@inject IHostEnvironment hostEnvironment
+@inject IConfiguration config
+@{
+    Layout = null;
+
+    var source = "";
+    if (hostEnvironment.IsDevelopment())
+    {
+        var httpClient = new HttpClient();
+        source = await httpClient.GetStringAsync($"{config["UiDevServerUrl"]}/index.html");
+    }
+    else
+    {
+        source = System.IO.File.ReadAllText(
+            $"{System.IO.Directory.GetCurrentDirectory()}{@"/wwwroot/index.html"}");
+    }
+}
+
+@Html.Raw(source)

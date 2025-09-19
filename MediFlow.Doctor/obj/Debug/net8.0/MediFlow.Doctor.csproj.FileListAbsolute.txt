@@ -1,0 +1,15 @@
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\bin\Debug\net8.0\MediFlow.Doctor.deps.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\bin\Debug\net8.0\MediFlow.Doctor.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\bin\Debug\net8.0\MediFlow.Doctor.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\bin\Debug\net8.0\SharedKernal.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\bin\Debug\net8.0\SharedKernal.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.csproj.AssemblyReference.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.AssemblyInfoInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.AssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.csproj.CoreCompileInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.51BE5AF1.Up2Date
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\refint\MediFlow.Doctor.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\MediFlow.Doctor.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.Doctor\obj\Debug\net8.0\ref\MediFlow.Doctor.dll

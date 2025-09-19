@@ -1,0 +1,49 @@
+@MediFlow.Api_HostAddress = https://localhost:7218
+@Token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImQ4NjBlZmNhLTIyZDktNDdmZC04MjQ5LTc5MWJhNjFiMDdjNyIsInN1YiI6ImQ4NjBlZmNhLTIyZDktNDdmZC04MjQ5LTc5MWJhNjFiMDdjNyIsImp0aSI6ImJkMDg4ZmIzIiwicm9sZSI6ImRvY3RvciIsImdpdmVuX25hbWUiOiJBYmR1bHJhaG1hbiIsImF1ZCI6ImRvY3Rvcm1hbmFnZW1lbnRhcGkiLCJuYmYiOjE3NTM1NDMwNDUsImV4cCI6MTc2MTQ5MTg0NSwiaWF0IjoxNzUzNTQzMDQ2LCJpc3MiOiJkb3RuZXQtdXNlci1qd3RzIn0.K_vawgFZJLPF3I960cRSHjXA9LX8QvHlklzumGUS6zc
+@DoctorId = 20d491ce-c4a9-42a1-be2e-3237f841d740
+
+
+GET {{MediFlow.Api_HostAddress}}/api/doctors
+Authorization: Bearer {{token}}
+Accept: application/json
+
+### Create Doctor
+POST {{MediFlow.Api_HostAddress}}/api/doctors
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "Doctor 1"
+}
+
+### Update Doctor
+PUT {{MediFlow.Api_HostAddress}}/api/doctors/{{DoctorId}}
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "Doctor 1"
+}
+
+### Set Doctor Availability 
+PUT {{MediFlow.Api_HostAddress}}/api/doctors/a345e307-9080-4fd5-8e59-106ad1a44a01/availability
+Authorization: Bearer {{token}}
+Accept: application/json
+Content-Type: application/json
+{
+  "availabilities": [
+    {
+      "day": 1,
+      "timeRanges": [
+        { "from": "01:30", "to": "4:00" },
+        { "from": "6:00", "to": "10:00" }
+      ]
+    },
+    {
+      "day": 2,
+      "timeRanges": [
+        { "from": "09:00", "to": "12:00" }
+      ]
+    }
+  ]
+}

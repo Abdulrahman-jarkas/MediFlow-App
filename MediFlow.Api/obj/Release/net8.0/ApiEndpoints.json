@@ -1,0 +1,88 @@
+[
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.CreateClinic\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MediFlow.ClinicManagement.Requests.CreateClinicRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MediFlow.ClinicManagement.Respones.ClinicDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Http.HttpValidationProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Clinics"
+    ],
+    "EndpointName": "CreateClinic"
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.GetAllClinics\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MediFlow.ClinicManagement.Endpoints.UpdateClinic\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpoint\u003Eb__0_0",
+    "RelativePath": "api/clinics/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MediFlow.ClinicManagement.Requests.UpdateClinicRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MediFlow.ClinicManagement.Respones.ClinicDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Http.HttpValidationProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Clinics"
+    ],
+    "EndpointName": "UpdateClinic"
+  }
+]

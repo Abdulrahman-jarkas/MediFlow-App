@@ -1,0 +1,33 @@
+D:\My Projects\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.deps.json
+D:\My Projects\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfoInputs.cache
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfo.cs
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\refint\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\My Projects\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\ref\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.deps.json
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfoInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfo.cs
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.csproj.CoreCompileInputs.cache
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\refint\MediFlow.InSessionCare.dll
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\My Projects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\ref\MediFlow.InSessionCare.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.deps.json
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\bin\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfoInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.AssemblyInfo.cs
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.csproj.CoreCompileInputs.cache
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\refint\MediFlow.InSessionCare.dll
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\MediFlow.InSessionCare.pdb
+D:\MyProjects\MediFlowFullStack\Backend\MediFlow\MediFlow.InSessionCare\obj\Debug\net8.0\ref\MediFlow.InSessionCare.dll

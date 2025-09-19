@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TrjiJsG6IbVhlNzMwkWFKugWFuaPuzoneNwxg9vwSUo=",
+  "Source": "MediFlow.Api",
+  "BasePath": "_content/MediFlow.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
